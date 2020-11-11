@@ -25,7 +25,7 @@ SECRET_KEY = 'fe+dqirgar@dfe4-p=j^x*mof7((wpr*=nno!j)kar2*r)g$fy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
